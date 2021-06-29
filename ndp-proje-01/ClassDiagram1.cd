@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ndp_proje_01.KatiMeyve">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAEAAAAAAAAAAAAAAgAAAAAQAQABAAAAAA=</HashCode>
+      <FileName>KatıMeyveler\KatiMeyve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.NarenciyeMeyve">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAEAAAAAAAAAAAAAAgAAAAAQAQABAAAAAA=</HashCode>
+      <FileName>NarenciyeMeyveler\NarenciyeMeyve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.Armut">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KatıMeyveler\Armut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.Cilek">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KatıMeyveler\Cilek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.Elma">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KatıMeyveler\Elma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.Greyfurt">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NarenciyeMeyveler\Greyfurt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.Mandalina">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NarenciyeMeyveler\Mandalina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.Portakal">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NarenciyeMeyveler\Portakal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ndp_proje_01.KatiMeyveSikacagi">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAACAIAAAAAA=</HashCode>
+      <FileName>KatiMeyveSikacagi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ndp_proje_01.NarenciyeMeyveSikacagi">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAACAIAAAAAA=</HashCode>
+      <FileName>NarenciyeMeyveSikacagi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ndp_proje_01.ISikacak">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAAAAIAAAAAA=</HashCode>
+      <FileName>ISikacak.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
